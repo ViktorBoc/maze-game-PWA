@@ -1,0 +1,6 @@
+#canvas_hra, .top, #farby, .btn, label, select, #timer, #completionModal, #gameOverModal, .color-ball {
+    display: none;
+}
+.modal-body {
+    display: block !important;
+}
