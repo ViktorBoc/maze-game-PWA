@@ -22,7 +22,7 @@ let timer = 0;
 let timerInterval;
 
 // Load mazes
-fetch("mazes.json")
+fetch("src/json/mazes.json")
     .then(response => response.json())
     .then(data => {
         mazes = {

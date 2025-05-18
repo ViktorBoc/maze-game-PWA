@@ -8,12 +8,12 @@
   "lang": "english",
   "icons": [
     {
-      "src": "./favicon.png",
+      "src": "./src/assets/images/favicon.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "./favicon144.png",
+      "src": "./src/assets/images/favicon144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any maskable"
