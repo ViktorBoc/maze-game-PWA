@@ -33,3 +33,4 @@ out/
 debug.log
 
 *.bak
+*.tmp
